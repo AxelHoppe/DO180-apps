@@ -1,3 +1,4 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Ich piss auf Dich!!!! php version is " . PHP_VERSION . "\n";
+print "Und piss direkt nochmal!!!\n";
 ?>
